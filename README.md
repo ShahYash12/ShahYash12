@@ -37,24 +37,24 @@ With a background in Information Technology and a strong foundation in data anal
 - [🔄 Global Sales ETL Pipeline](https://github.com/YOUR_USERNAME/GlobalSales_ETL_Pipeline)  
   End-to-end ETL pipeline integrating sales data from multiple regions using Python, SQL, and BigQuery. Automated reporting and anomaly detection included.
 
-- [📈 Credit Risk Prediction (ML Model)](https://github.com/YOUR_USERNAME/CreditRiskModel)  
+- [📈 Credit Risk Prediction (ML Model)](https://github.com/ShahYash12/CrediRate-Risk-Adjusted-Lending-System-and-Default-Predictor)  
   Used classification models with SMOTE and XGBoost to predict credit risk on imbalanced financial data.
 
-- [📉 Customer Churn Prediction](https://github.com/YOUR_USERNAME/CustomerChurn)  
+- [📉 Customer Churn Prediction](https://github.com/ShahYash12/CustomerChurn---Prediction)  
   Built a machine learning model to identify high-risk customers with actionable insights for retention strategy.
 
-- [📊 Marketing Analytics: Squatty Potty Case Study](https://github.com/YOUR_USERNAME/SquattyPottyMarketing)  
+- [📊 Cutomer Trend Analysis and Engagement Modelling](https://github.com/ShahYash12/Customer-Trend-Analysis-and-Engagement)
   Campaign performance analysis and segmentation using clustering algorithms and Tableau dashboards.
 
-- [🚚 Supply Chain Optimization (Gurobi)](https://github.com/YOUR_USERNAME/SupplyChainOpt)  
+- [🚚 Supply Chain Optimization (Gurobi)](https://github.com/ShahYash12/Inventory-portfolio-logistics-optimization)
   Developed a model to minimize cost across a 3-tier supply chain considering expiry, transport, and storage constraints.
 
-- [📅 Demand Forecasting for JPMorgan Capacity Expansion](https://github.com/YOUR_USERNAME/JPMorganForecast)  
+- [📅Financial Forecasting and Go-to-Market analysis](https://github.com/ShahYash12/Data-Driven-Expansion)
   Forecasted capacity demand and sales growth using regression models and financial projections.
 
 ---
 
-## 🌱 Currently Working On
+##  Currently Working On
 
 - Advancing my skills in **NLP**, **Time Series Forecasting**, and **MLOps**  
 - Building a **data-driven sports analytics model** for player performance  
